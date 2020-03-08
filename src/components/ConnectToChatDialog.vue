@@ -19,7 +19,7 @@
                             placeholder="choose a server"
                             v-model="server"
                             expanded>
-                        <option value="ws://localhost:3001">ws://localhost:3001</option>
+                        <option value="ws://37.139.21.60:3001">ws://37.139.21.60:3001</option>
                     </b-select>
                 </b-field>
             </section>

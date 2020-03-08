@@ -1,6 +1,6 @@
 const state = {
   username: 'Tobias',
-  server: 'ws://localhost:3001'
+  server: 'ws://37.139.21.60:3001'
 }
 
 const getters = {

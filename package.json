@@ -31,7 +31,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "buefy": "^0.6.2",
+    "buefy": "^0.6.7",
     "simple-peer": "^8.1.1",
     "vue": "^2.5.2",
     "vue-color": "^2.4.3",
